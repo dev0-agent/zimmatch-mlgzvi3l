@@ -7,7 +7,7 @@ It is automatically updated by dev0 as tasks are completed.
 
 ## Phase 1
 
-- [ ] ⏳ **Project Scaffold & Mock Backend Service**
+- [x] ⏳ **Project Scaffold & Mock Backend Service**
   Initialize the project structure. Create a `lib/store.ts` or `lib/mock-db.ts` utility that simulates a database using LocalStorage. This service should seed initial dummy data (10-20 mock profiles with Zimbabwean names/locations) and provide methods for `getUser`, `updateUser`, and `getPotentialMatches`.
 
 - [ ] ⏳ **Routing & App Shell Layout**
