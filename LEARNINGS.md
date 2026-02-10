@@ -30,4 +30,11 @@ Use this format when adding learnings:
 
 ## Learnings Log
 
-_(Agents will append their learnings below as tasks are completed)_
+### Task: Routing & App Shell Layout
+- **Completed:** 2026-02-10
+- **Task ID:** e935c1bd-389b-4938-83ab-5e8c7cc11479
+- **Learnings:**
+  - Used `react-router-dom` for client-side routing.
+  - Implemented a dual-navigation layout (top header for desktop, bottom bar for mobile) to optimize for mobile-first user experience.
+  - Simulated a `ProtectedRoute` by checking for a current user ID in `localStorage` via the `mockDB` utility.
+  - Structured pages and layout components separately for better maintainability.
